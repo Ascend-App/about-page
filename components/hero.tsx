@@ -33,8 +33,8 @@ export default function Hero() {
                 y2="577.921"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#9235c4" stopOpacity=".01" />
-                <stop offset="1" stopColor="#9235c4" stopOpacity=".32" />
+                <stop stopColor="#23dcde" stopOpacity=".01" />
+                <stop offset="1" stopColor="#23dcde" stopOpacity=".32" />
               </linearGradient>
             </defs>
             <path
@@ -59,14 +59,14 @@ export default function Hero() {
               />
             </div>
             <p
-              className="text-xl text-gray-400 mb-8"
+              className="text-xl text-gray-200 mb-8"
               data-aos="fade-up"
               data-aos-delay="200"
             >
               Your personal meditation guru.
             </p>
             <p
-              className="text-xl text-gray-400 mb-8"
+              className="text-xl text-gray-200 mb-8"
               data-aos="fade-up"
               data-aos-delay="200"
             >
