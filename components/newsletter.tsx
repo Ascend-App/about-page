@@ -111,7 +111,7 @@ export default function Newsletter() {
                   name="email"
                   type="email"
                   autoComplete="email"
-                  className="w-full appearance-none bg-purple-100 border border-blue-500 focus:border-purple-900 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-gray-400 "
+                  className="w-full appearance-none bg-purple-100 border border-blue-500 focus:border-purple-900 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-gray-600 placeholder-gray-400 "
                   placeholder="Your best email…"
                   aria-label="Your best email…"
                   value={email}
