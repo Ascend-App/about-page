@@ -34,7 +34,7 @@ export default function Testimonials() {
                     alt="Testimonial 01"
                   />
                   <svg
-                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-purple-600"
+                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-blue-400"
                     viewBox="0 0 24 20"
                     xmlns="http://www.w3.org/2000/svg"
                   >
@@ -50,7 +50,7 @@ export default function Testimonials() {
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700 flex justify-between">
                 <cite className="text-gray-200 not-italic">Stacy Taylor</cite>
                 <a
-                  className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
+                  className="text-blue-400 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
                   Student Athlete
@@ -74,7 +74,7 @@ export default function Testimonials() {
                     alt="Testimonial 02"
                   />
                   <svg
-                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-purple-600"
+                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-blue-400"
                     viewBox="0 0 24 20"
                     xmlns="http://www.w3.org/2000/svg"
                   >
@@ -90,7 +90,7 @@ export default function Testimonials() {
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700 flex justify-between">
                 <cite className="text-gray-200 not-italic">James Anderson</cite>
                 <a
-                  className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
+                  className="text-blue-400 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
                   Software Engineer
@@ -114,7 +114,7 @@ export default function Testimonials() {
                     alt="Testimonial 03"
                   />
                   <svg
-                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-purple-600"
+                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-blue-400"
                     viewBox="0 0 24 20"
                     xmlns="http://www.w3.org/2000/svg"
                   >
@@ -131,7 +131,7 @@ export default function Testimonials() {
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700 flex justify-between">
                 <cite className="text-gray-200 not-italic">Tim Williams</cite>
                 <a
-                  className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
+                  className="text-blue-400 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
                   Student

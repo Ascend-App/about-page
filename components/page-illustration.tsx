@@ -23,8 +23,8 @@ export default function PageIllustration() {
             gradientUnits="userSpaceOnUse"
           >
             <stop stopColor="#9235c4" stopOpacity=".01" />
-            <stop offset=".538" stopColor="#9235c4" stopOpacity=".32" />
-            <stop offset="1" stopColor="#9235c4" stopOpacity=".01" />
+            <stop offset=".538" stopColor="#23dcde" stopOpacity=".32" />
+            <stop offset="1" stopColor="#23dcde" stopOpacity=".01" />
           </linearGradient>
         </defs>
         <path

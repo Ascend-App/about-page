@@ -6,12 +6,13 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">
-              Receive personalized, guided meditations.
+              Receive personalized guided meditations.
             </h2>
             <p className="text-xl text-gray-400">
-              Powered by AI and machine learning, Ascend can create a
-              personalized meditation experience just for you - for any
-              situation.
+              Designed with an infinite catalog of meditation techniques
+              empowered by cutting-edge AI and machine learning technology, our
+              app offers unparalleled personalization and guidance for your
+              mindfulness journey.
             </p>
           </div>
 
@@ -32,7 +33,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-blue-400"
                   width="64"
                   height="64"
                   rx="32"
@@ -73,7 +74,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <circle
-                  className="fill-current text-purple-600"
+                  className="fill-current text-blue-400"
                   cx="32"
                   cy="32"
                   r="32"
@@ -113,7 +114,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-blue-400"
                   width="64"
                   height="64"
                   rx="32"
@@ -164,7 +165,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-blue-400"
                   width="64"
                   height="64"
                   rx="32"
@@ -209,7 +210,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-blue-400"
                   width="64"
                   height="64"
                   rx="32"
@@ -251,7 +252,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-blue-400"
                   width="64"
                   height="64"
                   rx="32"
