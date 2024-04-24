@@ -55,9 +55,8 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Personal Guru</h4>
               <p className="text-lg text-gray-400 text-center">
-                Receive personalized guidance and support from your A.I. guide
-                who understands your meditation journey and provides tailored
-                advice.
+                Receive support and personalized guidance from your A.I. guru
+                who understands your journey and creates unique meditations.
               </p>
             </div>
 
