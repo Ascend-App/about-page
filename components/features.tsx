@@ -10,9 +10,8 @@ export default function Features() {
             </h2>
             <p className="text-xl text-gray-400">
               Designed with an infinite catalog of meditation techniques
-              empowered by cutting-edge AI and machine learning technology, our
-              app offers unparalleled personalization and guidance for your
-              mindfulness journey.
+              empowered by cutting-edge technology, our app offers unparalleled
+              personalization and guidance for your mindfulness journey.
             </p>
           </div>
 
@@ -55,7 +54,7 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Personal Guru</h4>
               <p className="text-lg text-gray-400 text-center">
-                Receive support and personalized guidance from your A.I. guru
+                Receive support and personalized guidance from your virtual guru
                 who understands your journey and creates unique meditations.
               </p>
             </div>
