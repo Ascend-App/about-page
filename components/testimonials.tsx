@@ -43,7 +43,7 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                — As an student-athlete, I'm constantly trying to push past my
+                — As a student-athlete, I'm constantly trying to push past my
                 boundaries. Ascend has helped me prepare for my games and stay
                 focused on my goals so I can surpass my limits.
               </blockquote>
@@ -125,8 +125,8 @@ export default function Testimonials() {
               <blockquote className="text-lg text-gray-400 grow">
                 — I was feeling overwhelmed with my courses and amount of work I
                 had to do. It felt like anxiety and stress were taking over my
-                life. I started using Ascend and feel like school is manageable
-                again.
+                life. Ascend's sleep stories helped me relax and get a good
+                night's sleep.
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700 flex justify-between">
                 <cite className="text-gray-200 not-italic">Tim Williams</cite>
