@@ -99,6 +99,50 @@ export default function Features() {
               </p>
             </div>
 
+            {/* 4th item */}
+            <div
+              className="relative flex flex-col items-center"
+              data-aos="fade-up"
+              data-aos-delay="300"
+              data-aos-anchor="[data-aos-id-blocks]"
+            >
+              <svg
+                className="w-16 h-16 mb-4"
+                viewBox="0 0 64 64"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect
+                  className="fill-current text-blue-400"
+                  width="64"
+                  height="64"
+                  rx="32"
+                />
+                <g
+                  transform="translate(22 21)"
+                  strokeLinecap="square"
+                  strokeWidth="2"
+                  fill="none"
+                  fillRule="evenodd"
+                >
+                  <path
+                    className="stroke-current text-purple-100"
+                    d="M17 22v-6.3a8.97 8.97 0 003-6.569A9.1 9.1 0 0011.262 0 9 9 0 002 9v1l-2 5 2 1v4a2 2 0 002 2h4a5 5 0 005-5v-5"
+                  />
+                  <circle
+                    className="stroke-current text-purple-300"
+                    cx="13"
+                    cy="9"
+                    r="3"
+                  />
+                </g>
+              </svg>
+              <h4 className="h4 mb-2">Sleep Stories</h4>
+              <p className="text-lg text-gray-400 text-center">
+                Drift into restful sleep with personalized, unique stories that
+                adapt to your mood and goals for self-improvement.
+              </p>
+            </div>
+
             {/* 3rd item */}
             <div
               className="relative flex flex-col items-center"
@@ -150,51 +194,6 @@ export default function Features() {
               </p>
             </div>
 
-            {/* 4th item */}
-            <div
-              className="relative flex flex-col items-center"
-              data-aos="fade-up"
-              data-aos-delay="300"
-              data-aos-anchor="[data-aos-id-blocks]"
-            >
-              <svg
-                className="w-16 h-16 mb-4"
-                viewBox="0 0 64 64"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <rect
-                  className="fill-current text-blue-400"
-                  width="64"
-                  height="64"
-                  rx="32"
-                />
-                <g
-                  transform="translate(22 21)"
-                  strokeLinecap="square"
-                  strokeWidth="2"
-                  fill="none"
-                  fillRule="evenodd"
-                >
-                  <path
-                    className="stroke-current text-purple-100"
-                    d="M17 22v-6.3a8.97 8.97 0 003-6.569A9.1 9.1 0 0011.262 0 9 9 0 002 9v1l-2 5 2 1v4a2 2 0 002 2h4a5 5 0 005-5v-5"
-                  />
-                  <circle
-                    className="stroke-current text-purple-300"
-                    cx="13"
-                    cy="9"
-                    r="3"
-                  />
-                </g>
-              </svg>
-              <h4 className="h4 mb-2">Voice Activated</h4>
-              <p className="text-lg text-gray-400 text-center">
-                Enjoy hands-free control over your meditation experience through
-                seamless voice commands, enhancing convenience and
-                accessibility.
-              </p>
-            </div>
-
             {/* 5th item */}
             <div
               className="relative flex flex-col items-center"
@@ -232,7 +231,7 @@ export default function Features() {
               <h4 className="h4 mb-2">Learns From You</h4>
               <p className="text-lg text-gray-400 text-center">
                 Adapt and evolve your meditation practice as the app learns from
-                your feedback and adjust sessions to better suit your
+                your feedback and adjusts sessions to better suit your
                 preferences over time.
               </p>
             </div>
@@ -280,9 +279,8 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Manifest Your Dreams</h4>
               <p className="text-lg text-gray-400 text-center">
-                Harness the power of visualization and intention-setting to
-                manifest your aspirations and goals through guided meditation
-                exercises.
+                Let our guru create a personalized meditation plan to help you
+                achieve your goals.
               </p>
             </div>
           </div>
