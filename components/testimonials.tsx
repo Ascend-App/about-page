@@ -83,9 +83,10 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                — I just started my professional career and my imposter syndrome
-                was through the roof. Guided meditations from Ascend have helped
-                me build my confidence and feel like I belong in my field.
+                — I just started my professional career and my anxiety was
+                through the. Ascend made a personalized meditation plan that
+                helped me build my confidence and feel like I belong in my
+                field.
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700 flex justify-between">
                 <cite className="text-gray-200 not-italic">James Anderson</cite>
