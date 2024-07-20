@@ -20,7 +20,8 @@ export default function Zigzag() {
             <h1 className="h2 mb-4">One app. Infinite possibilities.</h1>
             <p className="text-xl text-gray-400">
               Let Ascend know what you'd like to meditate on, and we'll take it
-              from there.
+              from there. We also create unique sleep stories to help you drift
+              of to sleep with ease.
             </p>
           </div>
 
@@ -54,7 +55,7 @@ export default function Zigzag() {
                   <p className="text-xl text-gray-400 mb-4">
                     Get ready to dive into meditation effortlessly. Our
                     intuitive interface lets you craft your personalized
-                    meditation experience in seconds.
+                    meditation experience or sleep story in seconds.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -192,12 +193,12 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-green-400 mb-2">
                     Learns from you
                   </div>
-                  <h3 className="h3 mb-3">Manifest Your Dream Reality</h3>
+                  <h3 className="h3 mb-3">Create a Meditation Plan</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Our guided meditations are designed to align your thoughts,
-                    emotions, and actions with your deepest desires. You can
-                    cultivate the mindset and energy needed to manifest your
-                    aspirations into reality.
+                    Our guru will create a meditation plan based on your
+                    desires, goals, and meditation style. You can cultivate the
+                    mindset and energy needed to manifest your aspirations into
+                    reality.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -261,13 +262,13 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-green-400 mb-2">
                     Highly accessible
                   </div>
-                  <h3 className="h3 mb-3">Save and Share Your Favorites</h3>
+                  <h3 className="h3 mb-3">Save Your Favorites</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     Your meditation journey, your way. With our app, you can
                     easily save your favorite sessions to revisit whenever you
-                    like. Build a library of go-to meditations, making it simple
-                    to maintain your practice and find peace of mind whenever
-                    needed.
+                    like. Build a library of meditations and sleep stories,
+                    making it simple to maintain your practice and find peace of
+                    mind whenever needed.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">

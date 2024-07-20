@@ -6,7 +6,8 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">
-              Receive personalized guided meditations.
+              Receive personalized guided meditations, meditation plans, and
+              sleep stories.
             </h2>
             <p className="text-xl text-gray-400">
               Designed with an infinite catalog of meditation techniques
@@ -187,10 +188,10 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Calming Experience</h4>
+              <h4 className="h4 mb-2">Personalized Plans</h4>
               <p className="text-lg text-gray-400 text-center">
-                Immerse yourself in a tranquil atmosphere designed to evoke a
-                sense of peace and relaxation during each meditation session.
+                Let our guru create a personalized meditation plan to help you
+                achieve your goals and manifest your dreams.
               </p>
             </div>
 
@@ -277,10 +278,10 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Manifest Your Dreams</h4>
+              <h4 className="h4 mb-2">Calming Experience</h4>
               <p className="text-lg text-gray-400 text-center">
-                Let our guru create a personalized meditation plan to help you
-                achieve your goals.
+                Immerse yourself in a tranquil atmosphere designed to evoke a
+                sense of peace and relaxation during each meditation session.
               </p>
             </div>
           </div>
