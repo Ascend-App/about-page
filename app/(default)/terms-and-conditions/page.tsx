@@ -7,8 +7,8 @@ const TermsAndConditions: React.FC = () => {
         <div className="pt-32 pb-12 md:pt-40 md:pb-20">
           {/* Page header */}
           <div className="max-w-4xl mx-auto p-6shadow-md rounded-lg">
-            <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
-            <p className="mb-4">Last updated: July 29, 2024</p>
+            <h1 className="text-3xl font-bold mb-6">Terms and Conditions</h1>
+            <p className="mb-4">Last updated: July 24, 2024</p>
             <p className="mb-4">
               Please read these terms and conditions carefully before using Our
               Service.

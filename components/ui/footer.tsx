@@ -106,10 +106,10 @@ export default function Footer() {
                 <ul>
                   <li className="mb-1">
                     <Link
-                      href="/"
+                      href="/terms-and-conditions"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
-                      Privacy Policy
+                      Terms and conditions
                     </Link>
                   </li>
                   <li className="mb-1">
@@ -117,7 +117,7 @@ export default function Footer() {
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
-                      Labore et dolore
+                      Privacy Policy
                     </Link>
                   </li>
                   <li className="mb-1">
