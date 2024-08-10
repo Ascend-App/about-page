@@ -52,7 +52,7 @@ export default function Header() {
               </li>
               <li className="ml-4">
                 <Link
-                  href="/"
+                  href="https://www.instagram.com/ascendapp.ai/"
                   className="flex justify-center items-center text-blue-400 bg-gray-800 hover:text-gray-100 hover:bg-blue-400 rounded-full transition duration-150 ease-in-out"
                   aria-label="Instagram"
                 >
@@ -69,7 +69,7 @@ export default function Header() {
               </li>
               <li className="ml-4">
                 <Link
-                  href="/"
+                  href="https://www.linkedin.com/posts/ascend-meditations_ascendapp-betatesting-wellnessapp-activity-7224825914793095169-zF0b?utm_source=share&utm_medium=member_desktop"
                   className="flex justify-center items-center text-blue-400 bg-gray-800 hover:text-gray-100 hover:bg-blue-400 rounded-full transition duration-150 ease-in-out"
                   aria-label="Linkedin"
                 >
