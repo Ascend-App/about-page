@@ -23,7 +23,7 @@ export default function Footer() {
             {/* 2nd, 3rd and 4th blocks */}
             <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
               {/* 2nd block */}
-              {/* <div className="text-sm">
+              <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Products</h6>
                 <ul>
                   <li className="mb-1">
@@ -31,7 +31,7 @@ export default function Footer() {
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
-                      Web Studio
+                      App Store
                     </Link>
                   </li>
                   <li className="mb-1">
@@ -39,33 +39,49 @@ export default function Footer() {
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
-                      DynamicBox Flex
+                      Play Store
                     </Link>
                   </li>
-                  <li className="mb-1">
+                  {/* <li className="mb-1">
                     <Link
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
                       Programming Forms
                     </Link>
-                  </li>
+                  </li> */}
                 </ul>
-              </div> */}
+              </div>
 
               {/* 3rd block */}
-              {/* <div className="text-sm">
+              <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
                 <ul>
                   <li className="mb-1">
                     <Link
+                      href="/faq"
+                      className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
+                    >
+                      FAQ
+                    </Link>
+                  </li>
+                  <li className="mb-1">
+                    <Link
+                      href="/careers"
+                      className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
+                    >
+                      Careers
+                    </Link>
+                  </li>
+                  {/* <li className="mb-1">
+                    <Link
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
                       Nostrud exercitation
                     </Link>
-                  </li>
-                  <li className="mb-1">
+                  </li> */}
+                  {/* <li className="mb-1">
                     <Link
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
@@ -80,25 +96,9 @@ export default function Footer() {
                     >
                       Nostrud exercitation
                     </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link
-                      href="/"
-                      className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
-                    >
-                      Visual mockups
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link
-                      href="/"
-                      className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
-                    >
-                      Nostrud exercitation
-                    </Link>
-                  </li>
+                  </li> */}
                 </ul>
-              </div> */}
+              </div>
 
               {/* 4th block */}
               <div className="text-sm">
@@ -200,7 +200,7 @@ export default function Footer() {
               </li>
               <li className="ml-4">
                 <Link
-                  href="/"
+                  href="https://www.instagram.com/ascendapp.ai/"
                   className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
                   aria-label="Instagram"
                 >
@@ -217,7 +217,7 @@ export default function Footer() {
               </li>
               <li className="ml-4">
                 <Link
-                  href="/"
+                  href="https://www.linkedin.com/posts/ascend-meditations_ascendapp-betatesting-wellnessapp-activity-7224825914793095169-zF0b?utm_source=share&utm_medium=member_desktop"
                   className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
                   aria-label="Linkedin"
                 >
