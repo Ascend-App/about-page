@@ -6,13 +6,15 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">
-              Receive personalized guided meditations, meditation plans, and
-              sleep stories.
+              Unlock Your Full Potential with Personalized Guided Meditations,
+              Plans, and Sleep Stories
             </h2>
             <p className="text-xl text-gray-400">
-              Designed with an infinite catalog of meditation techniques
-              empowered by cutting-edge technology, our app offers unparalleled
-              personalization and guidance for your mindfulness journey.
+              Ascend is here to support you in reaching your highest potential,
+              offering you the tools to explore an expansive catalog of
+              meditation techniques. <strong>You </strong>lead the way, and our
+              app provides personalized experiences to help you achieve the
+              growth and transformation <strong>you desire</strong>.
             </p>
           </div>
 
@@ -55,8 +57,10 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Personal Guru</h4>
               <p className="text-lg text-gray-400 text-center">
-                Receive support and personalized guidance from your virtual guru
-                who understands your journey and creates unique meditations.
+                Your virtual guru is designed to support your unique journey,
+                offering meditations that reflect your needs. It’s your path,
+                and Ascend is here to help you unlock the full potential that
+                already lies within you.
               </p>
             </div>
 
