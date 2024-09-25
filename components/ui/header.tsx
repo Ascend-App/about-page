@@ -20,7 +20,7 @@ export default function Header() {
           <nav className="hidden md:flex md:grow">
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
-              <li>
+              {/* <li>
                 <Link
                   href="/"
                   className="flex justify-center items-center text-blue-400 bg-gray-800 hover:text-gray-100 hover:bg-blue-400 rounded-full transition duration-150 ease-in-out"
@@ -34,7 +34,7 @@ export default function Header() {
                     <path d="m13.063 9 3.495 4.475L20.601 9h2.454l-5.359 5.931L24 23h-4.938l-3.866-4.893L10.771 23H8.316l5.735-6.342L8 9h5.063Zm-.74 1.347h-1.457l8.875 11.232h1.36l-8.778-11.232Z" />
                   </svg>
                 </Link>
-              </li>
+              </li> */}
               <li className="ml-4">
                 <Link
                   href="/"
@@ -69,7 +69,7 @@ export default function Header() {
               </li>
               <li className="ml-4">
                 <Link
-                  href="https://www.linkedin.com/posts/ascend-meditations_ascendapp-betatesting-wellnessapp-activity-7224825914793095169-zF0b?utm_source=share&utm_medium=member_desktop"
+                  href="https://www.linkedin.com/company/ascend-meditations"
                   className="flex justify-center items-center text-blue-400 bg-gray-800 hover:text-gray-100 hover:bg-blue-400 rounded-full transition duration-150 ease-in-out"
                   aria-label="Linkedin"
                 >

@@ -217,7 +217,7 @@ export default function Footer() {
               </li>
               <li className="ml-4">
                 <Link
-                  href="https://www.linkedin.com/posts/ascend-meditations_ascendapp-betatesting-wellnessapp-activity-7224825914793095169-zF0b?utm_source=share&utm_medium=member_desktop"
+                  href="https://www.linkedin.com/company/ascend-meditations"
                   className="flex justify-center items-center text-blue-400 bg-gray-800 hover:text-gray-100 hover:bg-blue-400 rounded-full transition duration-150 ease-in-out"
                   aria-label="Linkedin"
                 >
