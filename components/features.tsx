@@ -6,13 +6,15 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">
-              Receive personalized guided meditations, meditation plans, and
-              sleep stories.
+              Unlock Your Full Potential with Personalized Guided Meditations,
+              Plans, and Sleep Stories
             </h2>
             <p className="text-xl text-gray-400">
-              Designed with an infinite catalog of meditation techniques
-              empowered by cutting-edge technology, our app offers unparalleled
-              personalization and guidance for your mindfulness journey.
+              Ascend is here to support you in reaching your highest potential,
+              offering you the tools to explore an expansive catalog of
+              meditation techniques. <strong>You </strong>lead the way, and our
+              app provides personalized experiences to help you achieve the
+              growth and transformation <strong>you desire</strong>.
             </p>
           </div>
 
@@ -55,8 +57,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Personal Guru</h4>
               <p className="text-lg text-gray-400 text-center">
-                Receive support and personalized guidance from your virtual guru
-                who understands your journey and creates unique meditations.
+                Ascend supports your unique journey, offering meditations
+                tailored to your needs. It’s your path, and Ascend helps unlock
+                the full potential already within you.
               </p>
             </div>
 
@@ -95,8 +98,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Unique Meditations</h4>
               <p className="text-lg text-gray-400 text-center">
-                Discover a diverse range of meditation styles and themes
-                tailored to cater to your various preferences and needs.
+                Our meditation styles and themes are crafted to align with your
+                personal goals. You define what’s important, and we provide
+                guidance to help you grow.
               </p>
             </div>
 
@@ -139,8 +143,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Sleep Stories</h4>
               <p className="text-lg text-gray-400 text-center">
-                Drift into restful sleep with personalized, unique stories that
-                adapt to your mood and goals for self-improvement.
+                Drift into restful sleep with personalized stories that adjust
+                to your state of mind. Wake up refreshed and ready to pursue
+                your goals with clarity and focus.
               </p>
             </div>
 
@@ -188,10 +193,11 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Personalized Plans</h4>
+              <h4 className="h4 mb-2">Custom Meditation Plans</h4>
               <p className="text-lg text-gray-400 text-center">
-                Let our guru create a personalized meditation plan to help you
-                achieve your goals and manifest your dreams.
+                Achieve lasting change with personalized meditation plans
+                created by your virtual guru. These plans guide you step by step
+                toward manifesting your full potential.
               </p>
             </div>
 
@@ -229,11 +235,11 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Learns From You</h4>
+              <h4 className="h4 mb-2">Adapts to Your Growth</h4>
               <p className="text-lg text-gray-400 text-center">
-                Adapt and evolve your meditation practice as the app learns from
-                your feedback and adjusts sessions to better suit your
-                preferences over time.
+                Ascend evolves with you, refining sessions to better support
+                your progress. As you grow, we ensure your meditation practice
+                adapts to your evolving goals.
               </p>
             </div>
 
@@ -278,10 +284,11 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Calming Experience</h4>
+              <h4 className="h4 mb-2">Path to Achievement</h4>
               <p className="text-lg text-gray-400 text-center">
-                Immerse yourself in a tranquil atmosphere designed to evoke a
-                sense of peace and relaxation during each meditation session.
+                Immerse yourself in a calming atmosphere that supports your
+                journey. A peaceful environment helps you focus, achieve growth,
+                and reach your transformation goals.
               </p>
             </div>
           </div>
