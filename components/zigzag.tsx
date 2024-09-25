@@ -15,13 +15,15 @@ export default function Zigzag() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-gray-100 bg-blue-400 rounded-full mb-4">
-              Reach goals that matter
+              Achieve Meaningful Goals
             </div>
             <h1 className="h2 mb-4">One app. Infinite possibilities.</h1>
             <p className="text-xl text-gray-400">
-              Let Ascend know what you'd like to meditate on, and we'll take it
-              from there. We also create unique sleep stories to help you drift
-              of to sleep with ease.
+              <strong>You</strong> hold the power to reach your fullest
+              potential. Whether you're meditating to unlock personal growth or
+              need a unique sleep story to ease into restful sleep,
+              <strong>Ascend</strong> is here to support your journey. Tell us
+              what you need, and we’ll help you get there.
             </p>
           </div>
 
@@ -51,11 +53,12 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-green-400 mb-2">
                     Easy to use
                   </div>
-                  <h3 className="h3 mb-3">Create Your Meditation Fast</h3>
+                  <h3 className="h3 mb-3">Effortless Meditation</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Get ready to dive into meditation effortlessly. Our
-                    intuitive interface lets you craft your personalized
-                    meditation experience or sleep story in seconds.
+                    With Ascend, you can dive into meditation effortlessly.
+                    <strong> You’re</strong> in control, and our intuitive
+                    design lets you craft meditations or sleep stories in
+                    seconds, allowing you to focus on your growth.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -88,9 +91,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>
-                        Intuitive interface for effortless meditation setup
-                      </span>
+                      <span>Intuitive interface for seamless setup</span>
                     </li>
                   </ul>
                 </div>
@@ -121,13 +122,12 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-green-400 mb-2">
                     Personalized features
                   </div>
-                  <h3 className="h3 mb-3">Tailored Personally to You</h3>
+                  <h3 className="h3 mb-3">Unlock Your Potential </h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Our technology analyzes your input to craft meditations that
-                    resonate with you on a personal level. Whether you're
-                    seeking relaxation, focus, or something in between, every
-                    session is precisely tailored to meet your goals and suit
-                    your mood.
+                    Ascend tailors meditations, visualizations, and mindfulness
+                    exercises to suit <strong>your individual journey</strong>.
+                    Every session reflects your goals, helping you unlock your
+                    potential
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -191,14 +191,14 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-green-400 mb-2">
-                    Learns from you
+                    Design Your Path to Success
                   </div>
                   <h3 className="h3 mb-3">Create a Meditation Plan</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Our guru will create a meditation plan based on your
-                    desires, goals, and meditation style. You can cultivate the
-                    mindset and energy needed to manifest your aspirations into
-                    reality.
+                    Our virtual guru offers personalized meditation plans, but
+                    <strong> your vision</strong> sets the course. Ascend aligns
+                    with your aspirations, helping you manifest your desires and
+                    turn them into reality.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -219,7 +219,9 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Utilize the power of manifestation </span>
+                      <span>
+                        Focus on manifestation to realize your potential
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -262,13 +264,12 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-green-400 mb-2">
                     Highly accessible
                   </div>
-                  <h3 className="h3 mb-3">Save Your Favorites</h3>
+                  <h3 className="h3 mb-3">Share Your Journey</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Your meditation journey, your way. With our app, you can
-                    easily save your favorite sessions to revisit whenever you
-                    like. Build a library of meditations and sleep stories,
-                    making it simple to maintain your practice and find peace of
-                    mind whenever needed.
+                    Ascend lets you track and revisit your favorite sessions
+                    whenever you need them. Build a library of meditations that
+                    reflect <strong>your growth</strong>, and share your journey
+                    with others to inspire their path.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -279,9 +280,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>
-                        Convenient feature for saving preferred sessions
-                      </span>
+                      <span>Easily save your preferred sessions</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -291,7 +290,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Easy access to a library of go-to meditations</span>
+                      <span>Access your personal meditation library</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -301,9 +300,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>
-                        Share your favorite meditations with friends and family
-                      </span>
+                      <span>Share your journey to empower others</span>
                     </li>
                   </ul>
                 </div>
