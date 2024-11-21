@@ -1,8 +1,6 @@
-import VideoThumb from "@/public/images/hero-image-01.jpg";
-import FullLogo_Transparent from "@/public/images/fulllogo_transparent.png";
+import AppleQR from "@/public/images/AppleQR.jpg";
 import FullLogo_Transparent_No_Buffer from "@/public/images/fulllogo_transparent_nobuffer.png";
 
-import ModalVideo from "@/components/modal-video";
 import Image from "next/image";
 
 export default function Hero() {
@@ -65,13 +63,40 @@ export default function Hero() {
             >
               Your personal meditation guru.
             </p>
-            <p
+            {/* <p
               className="text-xl text-gray-200 mb-8"
               data-aos="fade-up"
               data-aos-delay="200"
             >
               Early access coming soon.
-            </p>
+            </p> */}
+            {/* An image of the QR code */}
+            <div className="flex flex-col items-center space-y-4">
+              {/* QR Code Image */}
+              <div className="flex justify-center">
+                <Image
+                  src={AppleQR}
+                  width={400} // Reduced size for better scaling on small screens
+                  height={200}
+                  alt="Apple QR Code"
+                  className="rounded-lg"
+                />
+              </div>
+
+              {/* Text Section */}
+              <div className="text-center px-4">
+                {/* Center-align text and add padding */}
+                <p
+                  className="text-lg text-gray-200 mt-4" // Adjusted font size for mobile
+                  data-aos="fade-up"
+                  data-aos-delay="200"
+                >
+                  Scan the QR code to download the app.
+                </p>
+                <p className="text-gray-400 text-sm">Android coming soon.</p>{" "}
+                {/* Subtle styling */}
+              </div>
+            </div>
             {/* <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
